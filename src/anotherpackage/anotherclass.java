@@ -8,6 +8,8 @@ public class anotherclass {
 		System.out.println("ASDFG");
 		
 		System.out.println("!@#$%");
+		
+		System.out.println("hello");
 	}
 
 }
