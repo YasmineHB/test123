@@ -6,6 +6,8 @@ public class anotherclass {
 		System.out.println("*****");
 		
 		System.out.println("ASDFG");
+		
+		System.out.println("!@#$%");
 	}
 
 }
